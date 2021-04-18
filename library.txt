@@ -1,0 +1,14 @@
+npm install json-server
+npx json-server --watch data/db.json --port 8000
+
+npm install firebase --save
+
+npm outdated
+npm update
+npm update "vue" "vue-router"
+
+npm install <packagename>@latest
+npm install vue@latest vue-router@latest
+
+npx npm-check-updates -u
+npm install
